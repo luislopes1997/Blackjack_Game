@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1463524940 source:/home/miguel/Desktop/Projeto Final/graphical_interface/ProjetoFinal/main.c
+	"estrutras.h"
+
+1463524727 /home/miguel/Desktop/Projeto Final/graphical_interface/ProjetoFinal/estrutras.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1463524833 source:/home/miguel/Desktop/Projeto Final/graphical_interface/ProjetoFinal/blackjack.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463506871 source:/home/miguel/Desktop/Projeto Final/graphical_interface/ProjetoFinal/hitstand.c
+
+1463633746 source:/home/miguel/Desktop/Projeto Final2/graphical_interface/ProjetoFinal/blackjack.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463633757 /home/miguel/Desktop/Projeto Final2/graphical_interface/ProjetoFinal/estrutras.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1463633765 source:/home/miguel/Desktop/Projeto Final2/graphical_interface/ProjetoFinal/main.c
+	"estrutras.h"
+
+1463685857 source:/home/ist425416/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/blackjack.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463680936 /home/ist425416/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/estrutras.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1463682997 source:/home/ist425416/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/main.c
+	"estrutras.h"
+
+1463850657 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/blackjack.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463843608 /home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/estrutras.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1463850370 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/main.c
+	"estrutras.h"
+
+1463851254 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/ea.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463850091 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/grafica.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463849239 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/teclas.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463851378 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/hitstand.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463848041 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/finais.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463851051 source:/home/miguel/Desktop/Projeto_Final2/graphical_interface/ProjetoFinal/cardspointsmoney.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463850658 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/blackjack.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463843608 /home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/estrutras.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
+1463851052 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/cardspointsmoney.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463851254 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/ea.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463848042 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/finais.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463850092 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/grafica.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463851378 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/hitstand.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
+1463850370 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/main.c
+	"estrutras.h"
+
+1463851616 source:/home/ist425416/Desktop/2_Semestre_1516/ProjetoFinal/teclas.c
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	"estrutras.h"
+
